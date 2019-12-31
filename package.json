@@ -1,0 +1,29 @@
+{
+  "name": "next-ssr",
+  "version": "1.0.0",
+  "description": "next + antd + redux",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firetreey/next-ssr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firetreey/next-ssr/issues"
+  },
+  "homepage": "https://github.com/firetreey/next-ssr#readme",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "antd": "^3.26.5",
+    "babel-plugin-import": "^1.13.0",
+    "next": "^9.1.6",
+    "null-loader": "^3.0.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
